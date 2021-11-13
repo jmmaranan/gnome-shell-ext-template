@@ -22,6 +22,7 @@ make uninstall
 ## Gnome-Shell Extensions Notes
 
 * All about Gnome Extensions: https://wiki.gnome.org/Projects/GnomeShell/Extensions/
+* GJS Guide Site: https://gjs.guide/
 * GJS API Docs: https://gjs-docs.gnome.org/
 * Useful explanation for `imports.ui` components: https://mathematicalcoffee.blogspot.com/2012/09/gnome-shell-javascript-source.html
 * Gnome Developer Site: https://developer.gnome.org/references
